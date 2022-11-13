@@ -91,7 +91,8 @@ VIAとRemapについては下記のサリチル酸さんのサイトを参考に
   * [コンスルー - Self-Made Keyboards in Japan - ](https://scrapbox.io/self-made-kbds-ja/%E3%82%B3%E3%83%B3%E3%82%B9%E3%83%AB%E3%83%BC)<br>
   ![006](https://user-images.githubusercontent.com/58157342/89108152-21b31980-d471-11ea-9df6-11b106120852.JPG)
 * 3.ファームウェアの書き込み
-  * [HOOK69_default.hex](https://github.com/kushima8/Re/blob/master/HOOK69/HEX/HOOK69_default.hex)を指定してファームウェアを書き込んでください。
+  * 左側接続で作成したい場合は、[HOOK69_default.hex](https://github.com/kushima8/HOOK69/tree/main/HEX)を指定してファームウェアを書き込んでください。
+  * 右側接続で作成したい場合は、[HOOK69_right.hex](https://github.com/kushima8/HOOK69/tree/main/HEX)を指定してファームウェアを書き込んでください。
 * 4.LEDチップのはんだ付け(オプション)
   * 高い温度ではんだ付けを行うとLED破損の可能性がありますので、約270℃に設定してはんだ付けをするようにしてください。
   * LEDは足が欠けている箇所がGのシルクのマークの位置に来るように設置し、はんだ付けを行ってください。
