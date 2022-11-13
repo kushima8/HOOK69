@@ -74,20 +74,19 @@ VIAとRemapについては下記のサリチル酸さんのサイトを参考に
 ※完成見本写真などではPro Microの接続位置を左端にしていますが、本機はリバーシブル基盤となっております。<br>
 　Pro Microを右端にして本機を使用したい場合は反転させて実装してください。<br>
 　作成時にマスキングテープを使い表面と裏面がわかるようにしておくと作業ミスが少なくなります。<br>
- 　![000]()
 <br>
 <br>
 * 表面(左側接続)<br>
-  ![001]()
+  ![001](https://user-images.githubusercontent.com/58157342/201514232-d5c59f57-ed02-4459-a088-942a7995d0e0.jpg)
 * 裏面(左側接続)<br>
-  ![002]()
+  ![002](https://user-images.githubusercontent.com/58157342/201514235-0f2b227f-cfa5-4988-a50a-2d0bb3c5f570.jpg)
 * 表面(右側接続)<br>
-  ![003]()
+  ![003](https://user-images.githubusercontent.com/58157342/201514235-0f2b227f-cfa5-4988-a50a-2d0bb3c5f570.jpg)
 * 裏面(右側接続)<br>
-  ![004]()
+  ![004](https://user-images.githubusercontent.com/58157342/201514232-d5c59f57-ed02-4459-a088-942a7995d0e0.jpg)
 * 1.ヤスリがけ
   * 製造の都合上PCBにバリが存在します。<br>
-  ![005]()
+  ![005](https://user-images.githubusercontent.com/58157342/201514394-0a8d4f42-bbfd-4f4d-a504-c75acbb8f76f.jpg)
 * 裏面<br>
   * バリが気になる場合は、この箇所を市販されている紙ヤスリなどで研磨してください。
 * 2.Pro Microのはんだ付け
@@ -99,44 +98,69 @@ VIAとRemapについては下記のサリチル酸さんのサイトを参考に
   * [HOOK69_default.hex](https://github.com/kushima8/Re/blob/master/HOOK69/HEX/HOOK69_default.hex)を指定してファームウェアを書き込んでください。
 * 4.LEDチップのはんだ付け(オプション)
   * 高い温度ではんだ付けを行うとLED破損の可能性がありますので、約270℃に設定してはんだ付けをするようにしてください。
-  * LEDは足が欠けている箇所が左下にあるシルクのマークの位置に来るように設置し、はんだ付けを行ってください。
+  * LEDは足が欠けている箇所がGのシルクのマークの位置に来るように設置し、はんだ付けを行ってください。
   * はんだ付けが完了したら一度Pro Microを取り付け、LEDが光るかどうかテストを行ってください。<br>
-  ![007]()
-* 5-1.ダイオードのはんだ付け(挿入実装の場合)
-  * ダイオードの足を曲げ、PCB裏面から取り付け、表面からはんだ付けを行ってください。
-  * ダイオードの向きは前面から見て左(三角形の頂点の先に縦棒がある方)に黒帯が来るように設置しはんだ付けを行ってください。<br>
-  ![008]()
-* 5-2.ダイオードのはんだ付け(表面実装の場合)
-　* PCB裏面のダイオード取り付け箇所の片側に予めはんだを盛ります。
+  ![007](https://user-images.githubusercontent.com/58157342/201514416-00f18cc6-650f-471a-a8d4-def12257ffe4.jpg)
+  ![008](https://user-images.githubusercontent.com/58157342/201514417-2d174bed-f834-4977-be35-b14f98d3ea41.jpg)<br>
+* 5.ダイオードのはんだ付け
+  * PCB裏面のダイオード取り付け箇所の片側に予めはんだを盛ります。<br>
+  ![009](https://user-images.githubusercontent.com/58157342/201514465-0c7f6597-e0c4-4ea6-9222-379b3e3da465.jpg)
+  ![010](https://user-images.githubusercontent.com/58157342/201514468-82664373-b9a4-45ce-bfda-e839a45e7e28.jpg)<br>
   * その後、線が書いてある方を左(三角形の頂点の先に縦棒がある方)にセットします。
   * ダイオードをピンセットで持ちつつ、予めはんだを盛った箇所をはんだごてで加熱して片側だけはんだ付けを行います。<br>
-  ![009]()
+  ![011](https://user-images.githubusercontent.com/58157342/201514470-b9e99ed9-ff6b-4049-b035-ad39a611c52a.jpg)<br>
   * 片側のはんだ付けが完了後、もう片方もはんだ付けを行ってください。
+  ![012](https://user-images.githubusercontent.com/58157342/201514480-e4cd4ebc-f5ee-49eb-823f-6689afafb471.jpg)<br>
 * 6.Kailh PCB ソケット(MX用 or Kailh Choc V1用)のはんだ付け
-  * 中央の穴に干渉しないようにソケットをPCB裏面に設置してください。
+  * PCB裏面のソケット取り付け箇所に予めはんだを盛ります。
   * 上穴がMX用で下穴がKailh Choc V1用です。<br>
-  ![010]()
-  * ソケットの片側はんだ付けをしっかりと行い、基盤から浮いていないようであればもう片方もはんだ付けをしっかりと行ってください。
+  ![013](https://user-images.githubusercontent.com/58157342/201514683-85dcc180-e17d-4f30-b00d-e4caa7295757.jpg)
+  * 中央の穴に干渉しないようにソケットをPCB裏面に設置しはんだ付けを行ってください。<br>
+  ![014](https://user-images.githubusercontent.com/58157342/201514685-3445fbe2-e32e-47aa-bde9-aa802cb104ed.jpg)
+  ![015](https://user-images.githubusercontent.com/58157342/201514689-b7c1ce86-df53-47af-bfaa-6c0b9961d78d.jpg)
+  ![016](https://user-images.githubusercontent.com/58157342/201514691-8927c3b4-e4ff-45a5-a10a-d172bd1e0780.jpg)
 * 7.タクトスイッチはんだ付け
   * PCB表面から取り付け、裏面からはんだ付けを行ってください。
+  ![017](https://user-images.githubusercontent.com/58157342/201514810-67ed621e-58e6-43ab-9091-5d23ed2a81cd.jpg)
+  ![018](https://user-images.githubusercontent.com/58157342/201514812-5a9b7a27-fd62-4279-aa03-1b22fc56aed6.jpg)
 * 8.OLEDの取り付け(オプション)
   * 基盤裏面にあるジャンパ4箇所をショートさせてください。<br>
-  ![011]()
+  ![019](https://user-images.githubusercontent.com/58157342/201514830-621a67a6-c5ee-4b5a-bf1d-95fa39ca6e7c.jpg)
+  ![020](https://user-images.githubusercontent.com/58157342/201514831-cffb01e7-080c-4cbb-9d36-55acd93b7e79.jpg)
   * OLEDモジュールとピンヘッダのハンダ付けを行ってください。
   * ピンソケットをPCB表面から取り付け、裏面からはんだ付けを行ってください。<br>
-  ![012]()
+  ![021](https://user-images.githubusercontent.com/58157342/201514854-8c95fdde-0e1a-44d1-b8f7-dc28d8b28c27.jpg)
+  ![022](https://user-images.githubusercontent.com/58157342/201514860-6dca83f0-0c1e-4e46-8cf2-1e983f168538.jpg)
+  ![023](https://user-images.githubusercontent.com/58157342/201514952-24e466ef-b7d6-4226-886d-004fbdc2f062.jpg)
 * 9.ロータリーエンコーダ(EC11/EC12互換 or EVQWGD001)のはんだ付け
   * PCB表面からロータリーエンコーダを取り付け、裏面からはんだ付けを行ってください。
   * EVQWGD001の取り付けはフックを右側に、ピンを左側にして実装してください。
   * 長方形の穴にフック側を差し込み引っ掛けてからピンを基板側に刺すと取り付け出来ます。<br>
-  ![013]()
-* 10.トッププレートの取り付け
-  * 基盤とネジ穴が合うようにPCB表面に設置。
-  * ネジ穴下部にM2 6mmスペーサーを設置し、上部からM2 6mmネジで固定してください。
+  ![024](https://user-images.githubusercontent.com/58157342/201514910-76b17b16-dfad-45b7-9a8f-e7214d8f0898.jpg)
+  ![025](https://user-images.githubusercontent.com/58157342/201514911-d80c2970-d8a2-43ae-b986-520339ebb92a.jpg)
+  ![026](https://user-images.githubusercontent.com/58157342/201514914-e6eff74c-18e2-4f2a-a690-eb4a671e856f.jpg)
+  ![027](https://user-images.githubusercontent.com/58157342/201514922-70686675-cc8e-4b1d-94e6-f30fd1e7194b.jpg)
+  * EC11/EC12互換の場合は表面から取り付け裏面からはんだ付けを行ってください。
+  * 基盤の都合上固定がしにくくなっておりますので、しっかりと固定するようにはんだ付けをしてください。<br>
+  ![028](https://user-images.githubusercontent.com/58157342/201514969-bccd1541-25fa-4d9b-ac70-2ea0589103a8.jpg)
+  ![029](https://user-images.githubusercontent.com/58157342/201514971-e5686e6b-ce5b-41ba-aeb2-fa8d404e2097.jpg)
+* 10.キースイッチの取り付け
+  * トッププレートの穴にキースイッチを取り付けてください。
+  * キースイッチがハマりにくい場合はヤスリなどを使いトッププレートの穴を削ってください。<br>
+  ![030](https://user-images.githubusercontent.com/58157342/201515705-e91f95c2-5c8c-4b5a-9b88-55675464dfdd.jpg)
+  ![031](https://user-images.githubusercontent.com/58157342/201515711-204082e6-411a-4051-8d18-b98dec6e40ee.jpg)
+* 11.トッププレートの取り付け
+  * 基盤とネジ穴とキースイッチが合うようにPCB表面に設置。
+  * ネジ穴下部にM2 6mmスペーサーを置き、上部からM2 6mmネジで固定してください。<br>
+  ![032](https://user-images.githubusercontent.com/58157342/201515739-556a6662-d752-4803-916d-c6ed4f4ca922.jpg)
+  ![033](https://user-images.githubusercontent.com/58157342/201515740-121c7ef6-8cac-4159-b978-9a7ea89f0a8b.jpg)
 * 11.ProMicro下部スペーサー取り付け
-  * ProMicro下部のネジ穴下部にM2 6mmスペーサーを設置し、上面からM2 4mmネジで固定してください。
+  * ProMicro下部のネジ穴下部にM2 6mmスペーサーを設置し、上面からM2 4mmネジで固定してください。<br>
+  ![034](https://user-images.githubusercontent.com/58157342/201515765-a789701e-4a21-4197-8f3d-5a24cb16ab11.jpg)
+  ![035](https://user-images.githubusercontent.com/58157342/201515767-cc0c1925-9618-404d-bcd2-f32cc416dba3.jpg)
 * 12.ボトムプレートの取り付け。
-  * スペーサーとボトムプレートのネジ穴の位置を合わせ、M2 4mmネジで固定してください。
+  * スペーサーとボトムプレートのネジ穴の位置を合わせ、M2 4mmネジで固定してください。<br>
+  ![036](https://user-images.githubusercontent.com/58157342/201515783-844fe341-824e-4ae9-b851-2f6a7bb34412.jpg)
 * 13.キースイッチの取り付け
   * 基盤にキースイッチを取り付けてください。
 * 14.Pro Microの取り付け
@@ -152,8 +176,12 @@ VIAとRemapについては下記のサリチル酸さんのサイトを参考に
 * 18.ブックエンドの取り付け
   * 液タブの上面に取り付けるためにブックエンドを背面に取り付けます。
   * 付属のブックエンドを配置したい液タブ上面の形状に合わせて折り曲げます。<br>
-  ![014]()
+  ![037](https://user-images.githubusercontent.com/58157342/201515040-f1c5532b-91ab-443b-96a2-05b214e00a33.jpg)
+  ![038](https://user-images.githubusercontent.com/58157342/201515044-37e19a35-c16f-4ffb-9a21-d8dcd65fb2c9.jpg)
   * マスキングテープなどを使いキーボード本体に仮止めし液タブ上面に設置します。
-  * 問題なければに両面テープを使い固定してください。
+  * 問題なければに両面テープを使い固定してください。<br>
+  ![039](https://user-images.githubusercontent.com/58157342/201515045-8ee43847-a1c7-4a05-86fb-dc21356845ca.jpg)
+  ![040](https://user-images.githubusercontent.com/58157342/201515047-ed0a076c-9f26-4bf7-b57e-bb5ac02d6b99.jpg)
+
 
 組み立ての手順は、以上です。
