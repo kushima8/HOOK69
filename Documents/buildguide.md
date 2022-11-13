@@ -69,13 +69,10 @@ VIAとRemapについては下記のサリチル酸さんのサイトを参考に
 |M2 3.5mmスペーサー(ARB-2003.5E)|12個|全キーCherry MX互換使用時のみ|
 |M2 8mmネジ|12個|全キーCherry MX互換使用時のみ|
 
-
 ## 組み立て
 ※完成見本写真などではPro Microの接続位置を左端にしていますが、本機はリバーシブル基盤となっております。<br>
 　Pro Microを右端にして本機を使用したい場合は反転させて実装してください。<br>
 　作成時にマスキングテープを使い表面と裏面がわかるようにしておくと作業ミスが少なくなります。<br>
-<br>
-<br>
 * 表面(左側接続)<br>
   ![001](https://user-images.githubusercontent.com/58157342/201514232-d5c59f57-ed02-4459-a088-942a7995d0e0.jpg)
 * 裏面(左側接続)<br>
@@ -87,7 +84,6 @@ VIAとRemapについては下記のサリチル酸さんのサイトを参考に
 * 1.ヤスリがけ
   * 製造の都合上PCBにバリが存在します。<br>
   ![005](https://user-images.githubusercontent.com/58157342/201514394-0a8d4f42-bbfd-4f4d-a504-c75acbb8f76f.jpg)
-* 裏面<br>
   * バリが気になる場合は、この箇所を市販されている紙ヤスリなどで研磨してください。
 * 2.Pro Microのはんだ付け
   * チップが載っている面が内側になるようにし、コンスルーピンヘッダを取り付けはんだ付けをしてください。
@@ -101,16 +97,16 @@ VIAとRemapについては下記のサリチル酸さんのサイトを参考に
   * LEDは足が欠けている箇所がGのシルクのマークの位置に来るように設置し、はんだ付けを行ってください。
   * はんだ付けが完了したら一度Pro Microを取り付け、LEDが光るかどうかテストを行ってください。<br>
   ![007](https://user-images.githubusercontent.com/58157342/201514416-00f18cc6-650f-471a-a8d4-def12257ffe4.jpg)
-  ![008](https://user-images.githubusercontent.com/58157342/201514417-2d174bed-f834-4977-be35-b14f98d3ea41.jpg)<br>
+  ![008](https://user-images.githubusercontent.com/58157342/201514417-2d174bed-f834-4977-be35-b14f98d3ea41.jpg)
 * 5.ダイオードのはんだ付け
   * PCB裏面のダイオード取り付け箇所の片側に予めはんだを盛ります。<br>
   ![009](https://user-images.githubusercontent.com/58157342/201514465-0c7f6597-e0c4-4ea6-9222-379b3e3da465.jpg)
-  ![010](https://user-images.githubusercontent.com/58157342/201514468-82664373-b9a4-45ce-bfda-e839a45e7e28.jpg)<br>
+  ![010](https://user-images.githubusercontent.com/58157342/201514468-82664373-b9a4-45ce-bfda-e839a45e7e28.jpg)
   * その後、線が書いてある方を左(三角形の頂点の先に縦棒がある方)にセットします。
   * ダイオードをピンセットで持ちつつ、予めはんだを盛った箇所をはんだごてで加熱して片側だけはんだ付けを行います。<br>
-  ![011](https://user-images.githubusercontent.com/58157342/201514470-b9e99ed9-ff6b-4049-b035-ad39a611c52a.jpg)<br>
-  * 片側のはんだ付けが完了後、もう片方もはんだ付けを行ってください。
-  ![012](https://user-images.githubusercontent.com/58157342/201514480-e4cd4ebc-f5ee-49eb-823f-6689afafb471.jpg)<br>
+  ![011](https://user-images.githubusercontent.com/58157342/201514470-b9e99ed9-ff6b-4049-b035-ad39a611c52a.jpg)
+  * 片側のはんだ付けが完了後、もう片方もはんだ付けを行ってください。<br>
+  ![012](https://user-images.githubusercontent.com/58157342/201514480-e4cd4ebc-f5ee-49eb-823f-6689afafb471.jpg)
 * 6.Kailh PCB ソケット(MX用 or Kailh Choc V1用)のはんだ付け
   * PCB裏面のソケット取り付け箇所に予めはんだを盛ります。
   * 上穴がMX用で下穴がKailh Choc V1用です。<br>
@@ -154,34 +150,33 @@ VIAとRemapについては下記のサリチル酸さんのサイトを参考に
   * ネジ穴下部にM2 6mmスペーサーを置き、上部からM2 6mmネジで固定してください。<br>
   ![032](https://user-images.githubusercontent.com/58157342/201515739-556a6662-d752-4803-916d-c6ed4f4ca922.jpg)
   ![033](https://user-images.githubusercontent.com/58157342/201515740-121c7ef6-8cac-4159-b978-9a7ea89f0a8b.jpg)
-* 11.ProMicro下部スペーサー取り付け
+* 12.ProMicro下部スペーサー取り付け
   * ProMicro下部のネジ穴下部にM2 6mmスペーサーを設置し、上面からM2 4mmネジで固定してください。<br>
   ![034](https://user-images.githubusercontent.com/58157342/201515765-a789701e-4a21-4197-8f3d-5a24cb16ab11.jpg)
   ![035](https://user-images.githubusercontent.com/58157342/201515767-cc0c1925-9618-404d-bcd2-f32cc416dba3.jpg)
-* 12.ボトムプレートの取り付け。
+* 13.ボトムプレートの取り付け。
   * スペーサーとボトムプレートのネジ穴の位置を合わせ、M2 4mmネジで固定してください。<br>
   ![036](https://user-images.githubusercontent.com/58157342/201515783-844fe341-824e-4ae9-b851-2f6a7bb34412.jpg)
-* 13.キースイッチの取り付け
+* 14.キースイッチの取り付け
   * 基盤にキースイッチを取り付けてください。
-* 14.Pro Microの取り付け
+* 15.Pro Microの取り付け
   * Pro Microを取り付け、PCと接続しREMAPなどを用いてキースイッチとロータリーエンコーダの入力の確認を行ってください。
-* 15.OLEDモジュールの取り付け(オプション)
+* 16.OLEDモジュールの取り付け(オプション)
   * OLEDモジュールを取り付け、PCと接続し、表示されることの確認を行ってください。
   * デフォルトではレイヤーとLEDの光度情報が表示されます。
-* 16.つまみの取り付け(EC11/EC12互換使用の場合のみ)
+* 17.つまみの取り付け(EC11/EC12互換使用の場合のみ)
   * つまみをロータリーエンコーダーに取り付けてください。
-* 17.キーキャップの取り付け
+* 18.キーキャップの取り付け
   * キースイッチにキーキャップを取り付けてください。
   * 使用するキーキャップはすべて1Uのものになります。
-* 18.ブックエンドの取り付け
+* 19.ブックエンドの取り付け
   * 液タブの上面に取り付けるためにブックエンドを背面に取り付けます。
   * 付属のブックエンドを配置したい液タブ上面の形状に合わせて折り曲げます。<br>
   ![037](https://user-images.githubusercontent.com/58157342/201515040-f1c5532b-91ab-443b-96a2-05b214e00a33.jpg)
   ![038](https://user-images.githubusercontent.com/58157342/201515044-37e19a35-c16f-4ffb-9a21-d8dcd65fb2c9.jpg)
-  * マスキングテープなどを使いキーボード本体に仮止めし液タブ上面に設置します。
-  * 問題なければに両面テープを使い固定してください。<br>
   ![039](https://user-images.githubusercontent.com/58157342/201515045-8ee43847-a1c7-4a05-86fb-dc21356845ca.jpg)
   ![040](https://user-images.githubusercontent.com/58157342/201515047-ed0a076c-9f26-4bf7-b57e-bb5ac02d6b99.jpg)
-
+  * マスキングテープなどを使いキーボード本体に仮止めし液タブ上面に設置します。
+  * 問題なければに両面テープを使い固定してください。
 
 組み立ての手順は、以上です。
