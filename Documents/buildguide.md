@@ -94,6 +94,7 @@ VIAとRemapについては下記のサリチル酸さんのサイトを参考に
   * 左側接続で作成したい場合は、[HOOK69_default.hex](https://github.com/kushima8/HOOK69/tree/main/HEX)を指定してファームウェアを書き込んでください。
   * 右側接続で作成したい場合は、[HOOK69_right.hex](https://github.com/kushima8/HOOK69/tree/main/HEX)を指定してファームウェアを書き込んでください。
   * [REMAP](https://remap-keys.app/catalog/6cgxsudKJEdLPk9axw0j/firmware)でもファームウェアを書き込めるようにしております。
+  * 基盤のProMicro取り付け位置は表側の長方形のシルクで囲まれている箇所です。
 * 4.LEDチップのはんだ付け(オプション)
   * 高い温度ではんだ付けを行うとLED破損の可能性がありますので、約270℃に設定してはんだ付けをするようにしてください。
   * LEDは足が欠けている箇所がGのシルクのマークの位置に来るように設置し、はんだ付けを行ってください。
