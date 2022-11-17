@@ -11,7 +11,7 @@ HOOK69はTK様([@tnkzm_tk](https://twitter.com/tnkzm_tk))のアイディアを�
 
 ファームウェアに[qmk_firmware](https://github.com/qmk/qmk_firmware)を採用しています。<br>
 QMKにHOOK69のコードはまだマージされていませんのでこの[ブランチ](https://github.com/kushima8/qmk_firmware/tree/hook69)を使用してください。<br>
-動作確認の為にdefaultの[HEXファイル](https://github.com/kushima8/HOOK69/tree/main/HEX)を用意しています。<br>
+動作確認の為に[HEXファイル](https://github.com/kushima8/HOOK69/tree/main/HEX)を用意しています。<br>
 
 キット作成前にPro Microの書き込み環境の構築を行ってください。<br>
 ファームウェアの書き込み環境の構築については下記のサリチル酸さんのサイトを参考にしてください。<br>
