@@ -65,7 +65,7 @@ VIAとRemapについては下記のサリチル酸さんのサイトを参考に
 |LEDチップ(YS-SK6812MINI-E)|1個|
 |OLEDモジュール|1個|
 |OLED用ピンソケット|1個|
-|Kailh PCB ソケット(MX用)|69個|
+|Kailh PCB ソケット(Cherry MX互換用)|69個|
 |M2 3.5mmスペーサー(ARB-2003.5E)|12個|全キーCherry MX互換使用時のみ|
 |M2 8mmネジ|12個|全キーCherry MX互換使用時のみ|
 
