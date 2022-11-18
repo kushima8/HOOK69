@@ -121,7 +121,7 @@ VIAとRemapについては下記のサリチル酸さんのサイトを参考に
   ![015](https://user-images.githubusercontent.com/58157342/201514689-b7c1ce86-df53-47af-bfaa-6c0b9961d78d.jpg)
   ![016](https://user-images.githubusercontent.com/58157342/201514691-8927c3b4-e4ff-45a5-a10a-d172bd1e0780.jpg)
 * 7.タクトスイッチはんだ付け
-  * PCB表面から取り付け、裏面からはんだ付けを行ってください。
+  * PCB表面から取り付け、裏面からはんだ付けを行ってください。<br>
   ![017](https://user-images.githubusercontent.com/58157342/201514810-67ed621e-58e6-43ab-9091-5d23ed2a81cd.jpg)
   ![018](https://user-images.githubusercontent.com/58157342/201514812-5a9b7a27-fd62-4279-aa03-1b22fc56aed6.jpg)
 * 8.OLEDの取り付け(オプション)
@@ -182,11 +182,11 @@ VIAとRemapについては下記のサリチル酸さんのサイトを参考に
   ![038](https://user-images.githubusercontent.com/58157342/201515044-37e19a35-c16f-4ffb-9a21-d8dcd65fb2c9.jpg)
   ![039](https://user-images.githubusercontent.com/58157342/201515045-8ee43847-a1c7-4a05-86fb-dc21356845ca.jpg)
   ![040](https://user-images.githubusercontent.com/58157342/201515047-ed0a076c-9f26-4bf7-b57e-bb5ac02d6b99.jpg)
-  * マスキングテープなどを使いキーボード本体に仮止めし、液タブ上面に設置します。
+  * マスキングテープなどを使いキーボード本体に仮止めし、液タブ上面に設置します。<br>
   ![041](https://user-images.githubusercontent.com/58157342/202377845-bb420fcd-b653-4810-9516-9d805eb1857e.jpg)
 　![042](https://user-images.githubusercontent.com/58157342/202377849-296d654f-d590-43b9-9705-ff169236decc.jpg)
 　![043](https://user-images.githubusercontent.com/58157342/202377851-5f8c7a56-6fab-4621-b63c-c3a862497d6d.jpg)
-
-  * 設置し配置に問題なければに両面テープを使い固定してください。
+  * 設置しブックエンドの配置に問題なければに仮止めを外し、両面テープなどで固定してください。
+  * 固定する際はネジを避けるようにしてください。
 
 組み立ての手順は、以上です。
