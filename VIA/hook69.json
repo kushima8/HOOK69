@@ -2,7 +2,7 @@
     "name": "HOOK69",
     "vendorId": "0x3938",
     "productId": "0x3639",
-    "menus": [ "qmk_rgb_matrix" ],
+    "lighting": "qmk_rgblight",
     "matrix": { "rows": 12, "cols": 6 },
     "layouts": {
       "keymap": [
