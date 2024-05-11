@@ -29,7 +29,7 @@ QMKにHOOK69のコードはまだマージされていませんのでこの[ブ�
 
 キー割り当ての変更方法などはご自身でお調べいただくようお願いします。<br>
 
-GUIから簡単にキー割り当てを変更できる[VIA](https://caniusevia.com/)と[Remap(0.18)](https://qmk018.remap-keys.app/)に対応しております。<br>
+GUIから簡単にキー割り当てを変更できる[VIA](https://caniusevia.com/)と[Remap](https://remap-keys.app/)に対応しております。<br>
 ロータリーエンコーダの回転割り当ても含め、設定できますのでご活用ください。<br>
 VIAとRemapについては下記のサリチル酸さんのサイトを参考にしてください。<br>
 [（初心者編）VIAを使ってキーマップを書き換えよう](https://salicylic-acid3.hatenablog.com/entry/via-manual)<br>
