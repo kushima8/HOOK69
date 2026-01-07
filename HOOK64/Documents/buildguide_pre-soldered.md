@@ -77,14 +77,14 @@ https://www.youtube.com/watch?v=yv6PdiGenEw<br>
 |----|:---:|----|
 |OLEDモジュール|1個|
 |OLED用ピンソケット|1個|
-|はKB2040|1個|もしくはKB2040|
+|KB2040|1個|もしくはKB2040|
 |コンスルーピンヘッダ(3.5mm 12PIN)|2個|
 
 ※動作確認しているPro MicroとKB2040(RP2040 Kee Boar Driver Adafruit)は以下の通りになります。  
 　下記以外のPro Microを使用する場合は動作しないことがあります。  
 　使用する場合はご自身で調整してください。  
 　Pro Micro（単体）黒基盤/青基盤  
-　https://shop.yushakobo.jp/products/pro-micro?variant=42225070768359
+　https://shop.yushakobo.jp/products/pro-micro?variant=42225070768359  
 　RP2040 Kee Boar Driver  
 　https://akizukidenshi.com/catalog/g/g117312/
 
